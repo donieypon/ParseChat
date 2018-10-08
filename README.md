@@ -11,11 +11,11 @@ The following **required** user stories are complete:
 
 - [x] User can sign up and sign in to the login screen (+1pt)
 - [x] User sees alerts for login exceptions, i.e. "account already exists", "wrong credentials", etc. (+1pt)
-- [ ] User can compose and send chat messages (+2pt)
-- [ ] User can view a list of chat messages in chronological order (+2pt)
-- [ ] Automatically Adjust Cell Size to Fit Text (+1pt)
-- [ ] Username of chat author is displayed in each chat message (+2pt)
-- [ ] Persist Logged in User (+1pt)
+- [x] User can compose and send chat messages (+2pt)
+- [x] User can view a list of chat messages in chronological order (+2pt)
+- [x] Automatically Adjust Cell Size to Fit Text (+1pt)
+- [x] Username of chat author is displayed in each chat message (+2pt)
+- [x] Persist Logged in User (+1pt)
 
 The following **stretch** user stories are implemented:
 
@@ -27,28 +27,29 @@ The following **stretch** user stories are implemented:
 
 The following **additional** user stories are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] List anything else that you can get done to improve the app functionality! (+1-3pts)
+1. Fix constraints of cells so they do not collide
+2. Show timestamp of when messages were sent
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. How to improve the UI capabilities (ex: spacing)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/qJfKQdB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building this app, I encountered many small errors. Following along with the worded tutorial was a bit confusing at times, such as where exactly to implement a code. 
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2018 Emanuel Donie Ypon
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
